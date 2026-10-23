@@ -4,7 +4,7 @@ schemaVersion: 2.0.0
 id: 01a168dc-4893-7c14-890f-e6bae018344f
 kind: page
 title: About
-description: The purpose and editorial principles behind this publication.
+description: About Mike Tholfsen.
 language: en-US
 authors:
 - 01a168dc-4893-72eb-8bda-d423a1b4c358
@@ -16,16 +16,10 @@ slug: about
 redirects: []
 extensions: {}
 ---
+Mike Tholfsen publishes videos on YouTube as [Mike Tholfsen](https://www.youtube.com/@MikeTholfsen/videos).
 
-This publication is a place for considered work: finished essays, useful field
-notes, and the ideas that become clearer through writing.
+The articles on this site are written versions of those videos, each one linked to the original.
 
-## Editorial principles
-
-- Prefer evidence to certainty.
-- Make the useful detail easy to find.
-- Revise in public when the facts change.
-- Keep ownership of the archive and its history.
-
-It is created and published with Galascribe, while its Markdown content and
-publication settings remain in this repository.
+<!-- galascribe:demo-notice -->
+**This is a preview.** Galascribe built this site from Mike Tholfsen's videos to show what a written version of the channel could look like. Mike hasn't claimed it yet, and it is hidden from search engines until then. Questions: support@galascribe.com.
+<!-- /galascribe:demo-notice -->
